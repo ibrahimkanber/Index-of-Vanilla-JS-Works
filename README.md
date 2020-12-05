@@ -27,14 +27,14 @@
                 <td><img src="https://user-images.githubusercontent.com/65809527/101239988-70f1ab00-36ec-11eb-89f0-a7163e1b8639.gif" alt="gif"  style="height:500px"></td>
             </tr>
             <tr>
-                <td>Form Validator</td>
-                <td><a href="https://github.com/ibrahimkanber/Form-Validator-Vanilla-JS-Project1.github.io">Repo details..</a></td>
-                <td><img src="https://user-images.githubusercontent.com/65809527/101239992-72bb6e80-36ec-11eb-895d-aab46b6dfdc3.gif" alt="gif"  style="height:500px"></td>
-            </tr>
-            <tr>
                 <td>Number Guess Game</td>
                 <td><a href="https://github.com/ibrahimkanber/Number-Guess-1">Repo details..</a></td>
                 <td><img src="https://user-images.githubusercontent.com/65809527/101239995-74853200-36ec-11eb-94a4-62712b1474d1.gif" alt="gif"  style="height:500px"></td>
+            </tr>
+            <tr>
+                <td>Form Validator</td>
+                <td><a href="https://github.com/ibrahimkanber/Form-Validator-Vanilla-JS-Project1.github.io">Repo details..</a></td>
+                <td><img src="https://user-images.githubusercontent.com/65809527/101239992-72bb6e80-36ec-11eb-895d-aab46b6dfdc3.gif" alt="gif"  style="height:500px"></td>
             </tr>
             <tr>
                 <td>Todo App</td>
