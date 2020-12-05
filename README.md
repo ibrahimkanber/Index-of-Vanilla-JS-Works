@@ -29,7 +29,7 @@
             <tr>
                 <td>Number Guess Game</td>
                 <td><a href="https://github.com/ibrahimkanber/Number-Guess-1">Repo details..</a></td>
-                <td><img src="https://user-images.githubusercontent.com/65809527/101239995-74853200-36ec-11eb-94a4-62712b1474d1.gif" alt="gif"  style="height:500px"></td>
+                <td><img src="https://user-images.githubusercontent.com/65809527/101239989-70f1ab00-36ec-11eb-9a80-91ff05720b20.gif" alt="gif"  style="height:500px"></td>
             </tr>
             <tr>
                 <td>Form Validator</td>
